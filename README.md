@@ -1,4 +1,4 @@
-
+GENERATED IMAGES:
 
 ![Image](https://github.com/user-attachments/assets/737b9f55-4584-481f-815a-265d61711dac)
 
@@ -11,7 +11,7 @@
 
 
 
-
+PREPROCESSED IMAGES:
 
 ![preprocessed_image_2 (1)](https://github.com/user-attachments/assets/ff25a38a-2d6e-49c7-be50-5940d97fd285)
 
